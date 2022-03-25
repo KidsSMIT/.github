@@ -8,6 +8,7 @@
 <br>
 <br>
 ## How to get in contact with us:
+
 * Through our [website contact page](https://www.kidssmit.com/contact)
 
 * By emailing us at: codingwithcn@gmail.com
