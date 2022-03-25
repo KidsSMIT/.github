@@ -7,11 +7,14 @@
 > Here at Kids SMITH we have one goal, which is to support, motivate, inspire and teach young programmers out there. While providing them with the community they need to progress in thier future carrers.
 <br>
 <br>
+
 ## How to get in contact with us:
 
 * Through our [website contact page](https://www.kidssmit.com/contact)
 
 * By emailing us at: codingwithcn@gmail.com
+
 <br>
 <br>
+
 <h1 align="center" style="font-size: 25px">Although we are small our passion still has not change</h1>
