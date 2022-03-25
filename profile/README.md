@@ -9,7 +9,8 @@
 <br>
 ## How to get in contact with us:
 * Through our [website contact page](https://www.kidssmit.com/contact)
+
 * By emailing us at: codingwithcn@gmail.com
 <br>
 <br>
-<h1>Although we are small our passion still has not change</h1>
+<h1 align="center" style="font-size: 25px">Although we are small our passion still has not change</h1>
