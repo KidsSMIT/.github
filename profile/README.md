@@ -17,4 +17,4 @@
 <br>
 <br>
 
-<h1 align="center" style="font-size: 25px">Although we are small our passion still has not change</h1>
+<h1 align="center" style="font-size: 25px">Although we are small our passion isn't</h1>
